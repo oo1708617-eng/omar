@@ -3,5 +3,9 @@ body {
     color: white;
     display: flex;
     justify-content: center;
+    align-items: center;
+    font-size: 70px;
+    height: 100vh;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif\;
      
 }

@@ -1,0 +1,1 @@
+let elem = document.gitElementById("para").innerHTML
